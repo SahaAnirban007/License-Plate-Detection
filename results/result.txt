@@ -1,0 +1,5 @@
+| Metric    | Value(%) |
+| --------- | -------- |
+| mAP       | 	 99.5  |
+| Precision | 	 98.9  |
+| Recall    | 	 98.7  |
